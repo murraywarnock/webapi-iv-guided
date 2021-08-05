@@ -1,6 +1,9 @@
 {
   "name": "webapi-deployment",
   "version": "1.0.0",
+  "engines": {
+    "node": "v15.x"
+  },
   "description": "Guided project for **Web API IV** module.",
   "main": "index.js",
   "scripts": {
